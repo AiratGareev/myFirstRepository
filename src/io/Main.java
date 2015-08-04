@@ -28,6 +28,7 @@ public class Main {
 	static AbsractFactory factory;
 
 	public static void main(String[] s) throws ParseException {
+		System.out.println("Добро пожаловать");
 		selectLoader();
 		int action = LOAD;
 		do {
