@@ -53,6 +53,7 @@ public class Main {
 				break;
 			case EXIT:
 				System.exit(0);
+				System.out.println("Пака");
 			}
 			System.out.println("1) Загрузить файл");
 			System.out.println("2) Распечатать содержиое файла");
